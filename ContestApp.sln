@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContestApp", "ContestApp\ContestApp.csproj", "{D46D907A-2BF8-4CEA-A19C-1A7C2D57ED53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contest.BizLogic", "Contest.BizLogic\Contest.BizLogic.csproj", "{A160684B-1687-43C5-8A0F-106F04ACAC99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contest.DAL", "Contest.DAL\Contest.DAL.csproj", "{FB9853DE-C5E4-4316-BE36-AC80422D08DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46D907A-2BF8-4CEA-A19C-1A7C2D57ED53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46D907A-2BF8-4CEA-A19C-1A7C2D57ED53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46D907A-2BF8-4CEA-A19C-1A7C2D57ED53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46D907A-2BF8-4CEA-A19C-1A7C2D57ED53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A160684B-1687-43C5-8A0F-106F04ACAC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A160684B-1687-43C5-8A0F-106F04ACAC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A160684B-1687-43C5-8A0F-106F04ACAC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A160684B-1687-43C5-8A0F-106F04ACAC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB9853DE-C5E4-4316-BE36-AC80422D08DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB9853DE-C5E4-4316-BE36-AC80422D08DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB9853DE-C5E4-4316-BE36-AC80422D08DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB9853DE-C5E4-4316-BE36-AC80422D08DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
